@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/aulaMern/static/js/main.c73e6658.chunk.js",
+    "main.js.map": "/aulaMern/static/js/main.c73e6658.chunk.js.map",
+    "runtime-main.js": "/aulaMern/static/js/runtime-main.b142df7f.js",
+    "runtime-main.js.map": "/aulaMern/static/js/runtime-main.b142df7f.js.map",
+    "static/js/2.75ef04bb.chunk.js": "/aulaMern/static/js/2.75ef04bb.chunk.js",
+    "static/js/2.75ef04bb.chunk.js.map": "/aulaMern/static/js/2.75ef04bb.chunk.js.map",
+    "index.html": "/aulaMern/index.html",
+    "static/js/2.75ef04bb.chunk.js.LICENSE.txt": "/aulaMern/static/js/2.75ef04bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b142df7f.js",
+    "static/js/2.75ef04bb.chunk.js",
+    "static/js/main.c73e6658.chunk.js"
+  ]
+}
